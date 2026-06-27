@@ -1,32 +1,32 @@
 [
   {
-  "id": "forgesporeburmaldo",
-  "name": "Spore",
-  "description": "140 модов, оптимизация",
-  "version": "1",
-  "minecraft": "1.20.1",
-  "loader": "forge",
-  "loaderVersion": "47.4.20",
-  "author": "Kotofey99,ArtemSuy",
-  "icon": "https://...",
-  "downloadUrl": "https://drive.google.com/file/d/1MdgDVi1S0EE95xe6yJnt5EpLfVNSBks3/view?usp=sharing",
-  "sha256": "d2d3424t453cv34erwef3fsdfdsg34343",
-  "ram": 4096,
-  "official": true
-},
-{
-  "id": "AeroGenesis",
-  "name": "AeroGenesis",
-  "description": "291 модов, оптимизация",
-  "version": "1",
-  "minecraft": "1.21.1",
-  "loader": "NeoForge",
-  "loaderVersion": "21.1.233",
-  "author": "Kotofey99,ArtemSuy",
-  "icon": "https://...",
-  "downloadUrl": "https://drive.google.com/file/d/1eEBIgzgAQzVZVi7XZB7ujkSMCQFC44gD/view?usp=sharing",
-  "sha256": "s12cf4cr112dc3c34vr",
-  "ram": 8192,
-  "official": true
-}
+    "id": "forgesporeburmaldo",
+    "name": "Spore",
+    "description": "140 модов, оптимизация",
+    "version": "1",
+    "minecraft": "1.20.1",
+    "loader": "forge",
+    "loaderVersion": "47.4.20",
+    "author": "Kotofey99,ArtemSuy",
+    "icon": "https://...",
+    "downloadUrl": "https://drive.google.com/file/d/1MdgDVi1S0EE95xe6yJnt5EpLfVNSBks3/view?usp=sharing",
+    "sha256": "d2d3424t453cv34erwef3fsdfdsg34343",
+    "ram": 4096,
+    "official": true
+  },
+  {
+    "id": "AeroGenesis",
+    "name": "AeroGenesis",
+    "description": "291 модов, оптимизация",
+    "version": "1",
+    "minecraft": "1.21.1",
+    "loader": "neoforge",
+    "loaderVersion": "21.1.233",
+    "author": "Kotofey99,ArtemSuy",
+    "icon": "https://...",
+    "downloadUrl": "https://drive.google.com/file/d/1eEBIgzgAQzVZVi7XZB7ujkSMCQFC44gD/view?usp=sharing",
+    "sha256": "s12cf4cr112dc3c34vr",
+    "ram": 8192,
+    "official": true
+  }
 ]
