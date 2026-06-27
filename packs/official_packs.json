@@ -11,14 +11,14 @@
     "icon": "https://...",
     "downloadUrl": "https://drive.google.com/file/d/1MdgDVi1S0EE95xe6yJnt5EpLfVNSBks3/view?usp=sharing",
     "modManifestUrl": "https://raw.githubusercontent.com/kotofey99/ZenithLaucnher/main/packs/manifests/forgesporeburmaldo.json",
-    "sha256": "e437883306802db1f1cb078c52051cf9ef4a7430ea7681c9f6ad2632421502df",
+    "sha256": "a5a8e3a6600dd8721848b6eb71aa75544ec2bb4f468f9c0a9819aecc20b1217d",
     "ram": 4096,
     "official": true
   },
   {
     "id": "AeroGenesis",
     "name": "AeroGenesis",
-    "description": "[RU] 300 модов, оптимизация, летательные аппараты, заражение мицелием! И всё это в одной сборке! (Рекомендуемые настройки: 8 чанков, без шейдеров)\\n\\n[EN] 300 mods, optimization, aircraft, and mycelium infection! All in one modpack! (Recommended settings: 8 chunks, no shaders)",
+    "description": "[RU] 300 модов, оптимизация, летательные аппараты, заражение мицелием! (8 чанков, без шейдеров)\n\n[EN] 300 mods, optimization, aircraft, mycelium infection! (8 chunks, no shaders)",
     "version": "1.1",
     "minecraft": "1.21.1",
     "loader": "neoforge",
@@ -27,14 +27,14 @@
     "icon": "https://...",
     "downloadUrl": "https://drive.google.com/file/d/1aC6rUtibuNB-w8RbdwkaSOrEPtbrwRSW/view?usp=sharing",
     "modManifestUrl": "https://raw.githubusercontent.com/kotofey99/ZenithLaucnher/main/packs/manifests/AeroGenesis.json",
-    "sha256": "6cd74c8baa13e2f32b5b74bd1eba38d6f0912c67e1be13182eb2bfcf46109392",
+    "sha256": "e19376031f3e834dd51f630f84fdcbf221804c454e8b2203c99c7ee756d931b6",
     "ram": 8192,
     "official": true
   },
-    {
+  {
     "id": "AeroGenesisUpdated",
-    "name": "AeroGenesisUpdated",
-    "description": "[RU] 300 модов, оптимизация, летательные аппараты, заражение мицелием! И всё это в одной сборке! Обновлены все моды (Рекомендуемые настройки: 8 чанков, без шейдеров)\\n\\n[EN] 300 mods, optimization, aircraft, and mycelium infection! All in one modpack! (Recommended settings: 8 chunks, no shaders)",
+    "name": "AeroGenesis Updated",
+    "description": "[RU] AeroGenesis с обновлёнными модами (8 чанков, без шейдеров)\n\n[EN] AeroGenesis with updated mods (8 chunks, no shaders)",
     "version": "1",
     "minecraft": "1.21.1",
     "loader": "neoforge",
@@ -43,7 +43,7 @@
     "icon": "https://...",
     "downloadUrl": "https://drive.google.com/file/d/13vsBMIhGj7W_-Ofmo-4nhCJsccqqjOZ1/view?usp=sharing",
     "modManifestUrl": "https://raw.githubusercontent.com/kotofey99/ZenithLaucnher/main/packs/manifests/AeroGenesisUpdated.json",
-    "sha256": "6cd74c8baa13e2f32b5b74bd1eba38d6f0912c67e1be13182eb2bfcf46109392",
+    "sha256": "d879cd5798a1e96e9c9e4b6711c7474907f9bf417e33350f3a2e6801e5d09bf4",
     "ram": 8192,
     "official": true
   }
