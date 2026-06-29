@@ -114,6 +114,11 @@
         "version": "6.3.0"
     },
     {
+        "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "name": "Bookshelf",
+        "version": "21.1.81"
+    },
+    {
         "filename": "cc-tweaked-1.21.1-forge-1.120.0.jar",
         "name": "CC: Tweaked",
         "version": "1.120.0"
@@ -619,6 +624,11 @@
         "version": "1"
     },
     {
+        "filename": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+        "name": "EnchantmentDescriptions",
+        "version": "21.1.10"
+    },
+    {
         "filename": "ends_delight-2.6+neoforge.1.21.1.jar",
         "name": "End's Delight",
         "version": "2.6+neoforge.1.21.1"
@@ -1059,6 +1069,11 @@
         "version": "1.1.4"
     },
     {
+        "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+        "name": "PrickleMC",
+        "version": "21.1.11"
+    },
+    {
         "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
         "name": "Prism",
         "version": "1.0.11"
@@ -1072,6 +1087,11 @@
         "filename": "Quark-4.1-480.jar",
         "name": "Quark",
         "version": "4.1-480"
+    },
+    {
+        "filename": "ragdoll_reactions-1.21.1-0.7.0.jar",
+        "name": "Ragdoll Reactions",
+        "version": "0.7.0"
     },
     {
         "filename": "ranged_weapon_api-neoforge-2.3.3+1.21.1.jar",
@@ -1142,6 +1162,11 @@
         "filename": "sablebeyond-neoforge-1.21.1-v0.4.2.jar",
         "name": "Sable Beyond",
         "version": "0.4.2"
+    },
+    {
+        "filename": "sable_player_ragdoll-1.21.1-0.7.5.jar",
+        "name": "Sable Ragdolls",
+        "version": "0.7.5"
     },
     {
         "filename": "sable-schematic-api-0.4.0.jar",
